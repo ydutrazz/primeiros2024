@@ -1,12 +1,23 @@
-body {background-color: black
-text-align: center;
+body {background-color: black}
+margin: 0px
 }
 
-
-p {
+    nav a{
+        margin-top: 5px;
+        padding: 2px;
+        font-size: 20px;
+        text-decoration: none;
+        color: darkgreen;
+    }
+h1  {
     color: darkred;
 }
-.bobmarley {
+ .yas{
     font-style: italic;
+ }
+ .img1{
+    width: 50%;
 
+ .centro{
+    text-align:center ;
 }
