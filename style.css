@@ -1,4 +1,4 @@
-body {background-color: rgba(238, 185, 12, 0.925)}
+body {background-color: rgba(11, 95, 0, 0.925)}
 margin: 0px
 }
 
@@ -7,11 +7,11 @@ margin: 0px
         padding: 2px;
         font-size: 20px;
         text-decoration: none;
-        color: darkgreen;
+        color: #8a0b02;
 
     }
 h1  {
-    color: darkred;
+    color: #e7aa00;
 }
  .yas{
     font-style: italic;
